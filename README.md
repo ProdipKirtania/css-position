@@ -10,4 +10,4 @@ absolute
 sticky
 ```
 
-** Static position is default **
+**Static position is default**
