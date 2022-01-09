@@ -1,3 +1,13 @@
 # css-position
 
-### Static position is default
+there are 5 positions in CSS:
+
+```
+static
+realative
+fixed
+absolute
+sticky
+```
+
+** Static position is default **
